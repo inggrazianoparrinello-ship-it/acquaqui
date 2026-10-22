@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy - ACQUAQUì</title>
+<style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; padding: 30px; max-width: 800px; margin: 0 auto; }
+        h1 { color: #1a73e8; border-bottom: 2px solid #f1f3f4; padding-bottom: 10px; }
+        h2 { color: #202124; margin-top: 30px; }
+        p, li { color: #5f6368; font-size: 15px; }
+        ul { padding-left: 20px; }
+        .footer { margin-top: 50px; font-size: 13px; color: #9aa0a6; text-align: center; border-top: 1px solid #f1f3f4; padding-top: 20px; }
+</style>
+</head>
+<body>
+ 
+    <h1>Informativa sulla Privacy</h1>
+<p>La presente Informativa sulla Privacy descrive le modalità con cui l'applicazione <strong>[Inserisci Nome della tua App]</strong> (di seguito definita "Applicazione") raccoglie, utilizza e protegge i dati degli utenti. L'informativa è redatta in conformità con i requisiti del Google Play Store e con le normative vigenti sulla protezione dei dati (GDPR).</p>
+<h2>1. Titolare del Trattamento dei Dati</h2>
+<p>Il Titolare del trattamento dei dati raccolti tramite questa Applicazione è:</p>
+<ul>
+<li><strong>Nome/Ragione Sociale:</strong> [Inserisci il tuo Nome e Cognome o Nome Azienda]</li>
+<li><strong>Contatto Email:</strong> [Inserisci la tua Email di contatto per gli utenti]</li>
+</ul>
+ 
+    <h2>2. Tipologie di Dati Raccolti</h2>
+<p>L'Applicazione è progettata per ridurre al minimo la raccolta dei dati. A seconda dell'utilizzo dell'app, potrebbero essere trattate le seguenti categorie di informazioni:</p>
+<ul>
+<li><strong>Dati di utilizzo e identificativi tecnici:</strong> Informazioni fornite in modo automatico dai servizi di terze parti integrati (es. Google Play Services), come l'ID del dispositivo per funzionalità tecniche essenziali o statistiche anonime di arresto anomalo.</li>
+<li><strong>Dati forniti volontariamente:</strong> Qualsiasi informazione o feedback inviato esplicitamente dall'utente tramite email di supporto.</li>
+</ul>
+ 
+    <h2>3. Sicurezza dei Dati e Crittografia</h2>
+<p>La sicurezza dei tuoi dati è fondamentale per noi. Il Titolare adotta misure di sicurezza tecniche e organizzative adeguate:</p>
+<ul>
+<li><strong>Crittografia in transito:</strong> Tutti i dati trasmessi dall'Applicazione verso server esterni o servizi di terze parti vengono veicolati esclusivamente tramite protocolli sicuri e crittografati (HTTPS).</li>
+<li><strong>Nessuna memorizzazione permanente:</strong> Eventuali dati temporanei legati alla sessione d'uso vengono trattati in modo effimero e non vengono salvati su database permanenti del Titolare, a meno che non sia strettamente necessario per adempiere a una richiesta dell'utente.</li>
+</ul>
+ 
+    <h2>4. Condivisione dei Dati con Terze Parti</h2>
+<p>I dati degli utenti non vengono venduti o ceduti a scopi commerciali. Possono essere condivisi con fornitori di servizi terzi (es. Google Play Services) solo ed esclusivamente per garantire il corretto funzionamento tecnico dell'Applicazione, la distribuzione degli aggiornamenti e l'analisi anonima dei crash di sistema.</p>
+ 
+    <h2>5. Diritti dell'Utente e Cancellazione dei Dati</h2>
+<p>In conformità con le leggi sulla privacy, l'utente ha il diritto in qualsiasi momento di:</p>
+<ul>
+<li>Richiedere la conferma dell'esistenza o meno di dati personali che lo riguardano.</li>
+<li>Ottenere l'aggiornamento, la rettifica o la cancellazione definitiva dei dati trattati.</li>
+</ul>
+<p>Per esercitare questi diritti o richiedere la rimozione di qualsiasi informazione, l'utente può inviare una richiesta scritta direttamente all'indirizzo email del Titolare indicato nella sezione 1.</p>
+ 
+    <h2>6. Modifiche alla presente Informativa</h2>
+<p>Il Titolare si riserva il diritto di apportare modifiche alla presente Informativa sulla Privacy in qualunque momento, dandone comunicazione agli utenti su questa pagina. Si consiglia di consultare regolarmente questo URL per verificare eventuali aggiornamenti.</p>
+ 
+    <div class="footer">
+<p>Ultimo aggiornamento: Ottobre 2026</p>
+</div>
+ 
+</body>
+</html>
