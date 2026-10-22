@@ -1,60 +1,78 @@
 <!DOCTYPE html>
 <html lang="it">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Privacy Policy - ACQUAQUì</title>
-<style>
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; padding: 30px; max-width: 800px; margin: 0 auto; }
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Informativa sulla Privacy - ACQUAQUì</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 30px; }
         h1 { color: #1a73e8; border-bottom: 2px solid #f1f3f4; padding-bottom: 10px; }
-        h2 { color: #202124; margin-top: 30px; }
+        h2 { color: #202124; margin-top: 30px; border-bottom: 1px solid #f1f3f4; padding-bottom: 5px; }
         p, li { color: #5f6368; font-size: 15px; }
         ul { padding-left: 20px; }
+        strong { color: #202124; }
         .footer { margin-top: 50px; font-size: 13px; color: #9aa0a6; text-align: center; border-top: 1px solid #f1f3f4; padding-top: 20px; }
-</style>
+    </style>
 </head>
 <body>
- 
-    <h1>Informativa sulla Privacy</h1>
-<p>La presente Informativa sulla Privacy descrive le modalità con cui l'applicazione <strong>[Inserisci Nome della tua App]</strong> (di seguito definita "Applicazione") raccoglie, utilizza e protegge i dati degli utenti. L'informativa è redatta in conformità con i requisiti del Google Play Store e con le normative vigenti sulla protezione dei dati (GDPR).</p>
-<h2>1. Titolare del Trattamento dei Dati</h2>
-<p>Il Titolare del trattamento dei dati raccolti tramite questa Applicazione è:</p>
-<ul>
-<li><strong>Nome/Ragione Sociale:</strong> [Inserisci il tuo Nome e Cognome o Nome Azienda]</li>
-<li><strong>Contatto Email:</strong> [Inserisci la tua Email di contatto per gli utenti]</li>
-</ul>
- 
+
+    <h1>Informativa sulla Privacy per ACQUAQUì</h1>
+    <p><strong>Ultimo aggiornamento:</strong> Ottobre 2026</p>
+
+    <p>La presente Informativa sulla Privacy descrive le modalità con cui l'applicazione mobile <strong>ACQUAQUì</strong> (di seguito definita "Applicazione", "noi", "ci" o "nostro") raccoglie, utilizza, protegge e condivide i dati personali degli utenti. L'informativa è redatta in piena conformità con i requisiti del Google Play Store e con le normative vigenti sulla protezione dei dati, incluso il Regolamento Europeo (GDPR).</p>
+
+    <h2>1. Titolare del Trattamento dei Dati</h2>
+    <p>Il Titolare del trattamento dei dati raccolti tramite questa Applicazione è:</p>
+    <ul>
+        <li><strong>Nome / Ragione Sociale:</strong> [Inserisci il tuo Nome e Cognome o Nome Azienda]</li>
+        <li><strong>Contatto Email:</strong> [Inserisci la tua Email di contatto per gli utenti]</li>
+    </ul>
+
     <h2>2. Tipologie di Dati Raccolti</h2>
-<p>L'Applicazione è progettata per ridurre al minimo la raccolta dei dati. A seconda dell'utilizzo dell'app, potrebbero essere trattate le seguenti categorie di informazioni:</p>
-<ul>
-<li><strong>Dati di utilizzo e identificativi tecnici:</strong> Informazioni fornite in modo automatico dai servizi di terze parti integrati (es. Google Play Services), come l'ID del dispositivo per funzionalità tecniche essenziali o statistiche anonime di arresto anomalo.</li>
-<li><strong>Dati forniti volontariamente:</strong> Qualsiasi informazione o feedback inviato esplicitamente dall'utente tramite email di supporto.</li>
-</ul>
- 
-    <h2>3. Sicurezza dei Dati e Crittografia</h2>
-<p>La sicurezza dei tuoi dati è fondamentale per noi. Il Titolare adotta misure di sicurezza tecniche e organizzative adeguate:</p>
-<ul>
-<li><strong>Crittografia in transito:</strong> Tutti i dati trasmessi dall'Applicazione verso server esterni o servizi di terze parti vengono veicolati esclusivamente tramite protocolli sicuri e crittografati (HTTPS).</li>
-<li><strong>Nessuna memorizzazione permanente:</strong> Eventuali dati temporanei legati alla sessione d'uso vengono trattati in modo effimero e non vengono salvati su database permanenti del Titolare, a meno che non sia strettamente necessario per adempiere a una richiesta dell'utente.</li>
-</ul>
- 
-    <h2>4. Condivisione dei Dati con Terze Parti</h2>
-<p>I dati degli utenti non vengono venduti o ceduti a scopi commerciali. Possono essere condivisi con fornitori di servizi terzi (es. Google Play Services) solo ed esclusivamente per garantire il corretto funzionamento tecnico dell'Applicazione, la distribuzione degli aggiornamenti e l'analisi anonima dei crash di sistema.</p>
- 
-    <h2>5. Diritti dell'Utente e Cancellazione dei Dati</h2>
-<p>In conformità con le leggi sulla privacy, l'utente ha il diritto in qualsiasi momento di:</p>
-<ul>
-<li>Richiedere la conferma dell'esistenza o meno di dati personali che lo riguardano.</li>
-<li>Ottenere l'aggiornamento, la rettifica o la cancellazione definitiva dei dati trattati.</li>
-</ul>
-<p>Per esercitare questi diritti o richiedere la rimozione di qualsiasi informazione, l'utente può inviare una richiesta scritta direttamente all'indirizzo email del Titolare indicato nella sezione 1.</p>
- 
-    <h2>6. Modifiche alla presente Informativa</h2>
-<p>Il Titolare si riserva il diritto di apportare modifiche alla presente Informativa sulla Privacy in qualunque momento, dandone comunicazione agli utenti su questa pagina. Si consiglia di consultare regolarmente questo URL per verificare eventuali aggiornamenti.</p>
- 
+    <p>Per poter fornire il servizio di consegna a domicilio (food delivery) e garantire il corretto funzionamento tecnico, l'Applicazione tratta le seguenti categorie di informazioni:</p>
+    <ul>
+        <li><strong>Dati di registrazione e profilo:</strong> Nome, cognome, indirizzo email, numero di telefono e password cifrata.</li>
+        <li><strong>Dati di consegna:</strong> Indirizzo di spedizione completo (via, città, cap) per permettere ai rider di recapitare l'ordine.</li>
+        <li><strong>Dati di geolocalizzazione (Posizione):</strong> Raccogliamo la posizione geografica precisa o approssimativa del dispositivo dell'utente. Questa funzione è fondamentale per mostrare i negozi partner nelle vicinanze e per consentire il tracciamento della consegna in tempo reale. I dati di posizione possono essere raccolti anche quando l'app è in background, ma solo se strettamente necessario per l'esecuzione del servizio di consegna.</li>
+        <li><strong>Dati di pagamento:</strong> Le transazioni finanziarie avvengono in modo sicuro. I dati relativi a carte di credito o conti non vengono salvati sui nostri server, ma sono processati direttamente da provider terzi (es. Stripe / PayPal).</li>
+        <li><strong>Dati di utilizzo e identificativi tecnici:</strong> Informazioni fornite in modo automatico dai servizi di terze parti integrati (es. Google Play Services), come l'ID del dispositivo per funzionalità tecniche essenziali o statistiche anonime di arresto anomalo (crash).</li>
+        <li><strong>Dati forniti volontariamente:</strong> Qualsiasi informazione o feedback inviato esplicitamente dall'utente tramite email di supporto clienti.</li>
+    </ul>
+
+    <h2>3. Finalità del Trattamento</h2>
+    <p>I dati dell'utente vengono utilizzati esclusivamente per:</p>
+    <ul>
+        <li>Elaborare, trasmettere e completare gli ordini tra l'utente, i partner commerciali e i rider addetti alla consegna.</li>
+        <li>Consentire la geolocalizzazione per calcolare le distanze di consegna e i costi del servizio.</li>
+        <li>Inviare notifiche push relative allo stato dell'ordine (es. "Il tuo ordine è in preparazione").</li>
+        <li>Fornire assistenza clienti in caso di problemi con una consegna o segnalazioni tecniche.</li>
+    </ul>
+
+    <h2>4. Sicurezza dei Dati e Crittografia</h2>
+    <p>La sicurezza dei tuoi dati è fondamentale per noi. Il Titolare adotta misure di sicurezza tecniche e organizzative adeguate:</p>
+    <ul>
+        <li><strong>Crittografia in transito:</strong> Tutti i dati trasmessi dall'Applicazione verso server esterni o servizi di terze parti vengono veicolati esclusivamente tramite protocolli sicuri e crittografati (HTTPS).</li>
+        <li><strong>Nessuna memorizzazione permanente non necessaria:</strong> Eventuali dati temporanei legati alla sessione d'uso vengono trattati in modo effimero e non vengono salvati su database permanenti, a meno che non sia strettamente necessario per adempiere a una richiesta dell'utente o a obblighi di legge.</li>
+    </ul>
+
+    <h2>5. Condivisione dei Dati con Terze Parti</h2>
+    <p>I dati degli utenti non vengono venduti o ceduti a scopi commerciali. Per completare il servizio, i dati strettamente necessari vengono condivisi unicamente con:</p>
+    <ul>
+        <li><strong>Partner commerciali:</strong> Ricevono il nome dell'utente e la lista dei prodotti ordinati per la preparazione.</li>
+        <li><strong>Rider / Fattorini:</strong> Ricevono il nome, l'indirizzo di consegna e il numero di telefono dell'utente per effettuare la consegna e contattarlo in caso di necessità.</li>
+        <li><strong>Fornitori di Servizi Terzi (SDK):</strong> Utilizziamo moduli di terze parti essenziali per il funzionamento dell'app, come Google Play Services (funzionalità di sistema), Google Maps SDK (per le mappe e la geolocalizzazione) e Stripe/PayPal (per i pagamenti sicuri).</li>
+    </ul>
+
+    <h2>6. Diritti dell'Utente e Cancellazione dei Dati (Conformità GDPR)</h2>
+    <p>In conformità con il Regolamento Europeo sulla Protezione dei Dati (GDPR) e con le linee guida sugli account del Google Play Store, l'utente ha il diritto di accedere ai propri dati, chiederne la rettifica, la limitazione o la <strong>cancellazione definitiva</strong>.</p>
+    <p>Se desideri eliminare definitivamente il tuo account e tutti i dati personali ad esso associati dai nostri sistemi, puoi farlo inviando una richiesta esplicita all'indirizzo email del Titolare indicato nella sezione 1 di questo documento. Provvederemo alla rimozione sicura entro i termini previsti dalla legge.</p>
+
+    <h2>7. Modifiche alle presenti Norme sulla Privacy</h2>
+    <p>Ci riserviamo il diritto di aggiornare queste norme in qualsiasi momento per adeguarle a modifiche del servizio o aggiornamenti legislativi. Gli utenti saranno informati di eventuali modifiche sostanziali direttamente all'interno dell'Applicazione.</p>
+
     <div class="footer">
-<p>Ultimo aggiornamento: Ottobre 2026</p>
-</div>
- 
+        <p>&copy; 2026 ACQUAQUì. Tutti i diritti riservati.</p>
+    </div>
+
 </body>
 </html>
